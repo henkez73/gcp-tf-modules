@@ -1,2 +1,1 @@
-# gcp-tf-modules
-GCP Terraform Modules
+# GCP Terraform Modules

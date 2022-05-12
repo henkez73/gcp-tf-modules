@@ -1,0 +1,13 @@
+{
+	"name": "cts-standard",
+	"dockerFile": "Dockerfile",
+	"extensions": [
+		"ms-azuretools.vscode-docker",
+		"hashicorp.terraform",
+		"davidanson.vscode-markdownlint",
+		"redhat.vscode-yaml",
+		"eamodio.gitlens"
+	],
+	"postCreateCommand": "pre-commit install",
+	"remoteUser": "vscode"
+}
